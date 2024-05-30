@@ -1,0 +1,3 @@
+2024-02-23 11:42:20,927 - WARNING - Error importing jpype dependencies. Fallback to subprocess.
+2024-02-23 11:42:20,927 - WARNING - No module named 'jpype'
+2024-02-23 11:42:30,744 - INFO - Data processing completed successfully.
